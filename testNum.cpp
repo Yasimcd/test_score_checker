@@ -1,6 +1,5 @@
 // Lab 4 testNum.cpp
 // This program checks to see if a test score is equal to 100. 
-// It currently contains a logic error. 
 // Yasim Cruz
 #include <iostream>
 using namespace std;
